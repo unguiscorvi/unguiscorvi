@@ -1,4 +1,4 @@
-## Hi there 👋
+![banner image with code, cats, and books on a green background](/images/Beth_GitHubBanner_v26-06-05.png)
 
 <!--
 **unguiscorvi/unguiscorvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
